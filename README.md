@@ -18,7 +18,7 @@
 
 💻 Fun fact **I normally code on the Iron Throne!** 😂
 
-📫 How to reach me: your.email@example.com
+📫 How to reach me
 
 </div>
 
