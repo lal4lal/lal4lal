@@ -1,12 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lal4lal.lal4lal" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&widht=500&height=70&duration=4000&lines=Hi+There! 👋;+I'm+Muhammad+Hilal+Abyan!;" /> 
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Hilal+Abyan!;" />
 </h1>
 
-<h3 align="center">A Passionate software developer from Indonesia</h3>
+<h3 align="center">A passionate software developer from Indonesia</h3>
 
 <br/>
 
