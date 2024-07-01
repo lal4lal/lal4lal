@@ -40,7 +40,9 @@
     <br>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lal4lal/lal4lal/output/github-contribution-grid-snake.svg" />
 
-    <br/><br/><br/>
+    <br/>
+    <br/>
+    <br/>
 </div>
 
 <hr/>
