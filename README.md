@@ -9,7 +9,17 @@
 <br/>
 
 <div align="center">
-  
+    
+👋 Hi, I’m Muhammad Hilal Abyan!
+    
+🔭 I’m an Informatics student at Telkom University, Indonesia.
+
+🌱 I’m currently diving deep into the fascinating world of Machine Learning, with a special focus on Computer Vision.
+
+💻 Fun fact **I normally code on the Iron Throne!** 😂
+
+📫 How to reach me: your.email@example.com
+
 </div>
 
 <div align="center">
