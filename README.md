@@ -12,9 +12,9 @@
     
 👋 Hi, I’m Muhammad Hilal Abyan!
     
-🔭 I’m an Informatics student at Telkom University, Indonesia.
+🔭 I’m an **Informatics student** at Telkom University, Indonesia.
 
-🌱 I’m currently diving deep into the fascinating world of Machine Learning, with a special focus on Computer Vision.
+🌱 I’m currently diving deep into the fascinating world of **Machine Learning**, with a special focus on **Computer Vision**.
 
 💻 Fun fact **I normally code on the Iron Throne!** 😂
 
@@ -38,6 +38,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,go,mysql" />
+    <br/>
     <img src="https://skillicons.dev/icons?i=github,vscode,sklearn,tensorflow" />
   </a>
 </div>
