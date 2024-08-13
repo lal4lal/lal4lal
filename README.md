@@ -16,7 +16,7 @@
 
 🌱 I’m currently diving deep into the fascinating world of **Machine Learning**, with a special focus on **Computer Vision**.
 
-💻 Fun fact **I normally code on the Iron Throne!** 😂
+💻 Fun fact **I normally let ChatGPT choose my variable names.** 😂
 
 📫 How to reach me
 
